@@ -19,7 +19,13 @@
       "url": "https://app.powerbi.com/groups/be6521fc-a8f5-4313-8c57-e7c3403ea3b3/reports/3e06c55b-4f34-47fe-9aba-d9370695d219/ReportSection1d3dd43de38110b75338?chromeless=1",
       "duration": 60,
       "tabReloadIntervalSeconds": 1000
+    },
+    {
+      "url": "file:///Users/mobi2go/Downloads/mobi-maori-language-week.jpg",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 1000
     }
   ]
 }
+
 
