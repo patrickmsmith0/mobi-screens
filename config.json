@@ -6,26 +6,20 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://app.powerbi.com/groups/e1755c84-42ce-4f2f-aa27-f4fa2ea52bff/reports/39e15150-d0d9-4be3-8a19-7bc86759aafb/ReportSectiond4574a3cdceda31192d8?chromeless=1",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 1000
-    },
-    {
       "url": "https://app.powerbi.com/groups/e1755c84-42ce-4f2f-aa27-f4fa2ea52bff/reports/39e15150-d0d9-4be3-8a19-7bc86759aafb/ReportSection05dfa07194999512d331?chromeless=1",
       "duration": 10,
       "tabReloadIntervalSeconds": 1000
     },
     {
       "url": "https://app.powerbi.com/groups/be6521fc-a8f5-4313-8c57-e7c3403ea3b3/reports/3e06c55b-4f34-47fe-9aba-d9370695d219/ReportSection1d3dd43de38110b75338?chromeless=1",
-      "duration": 60,
+      "duration": 30,
       "tabReloadIntervalSeconds": 1000
     },
     {
-      "url": "file:///Users/mobi2go/Downloads/mobi-maori-language-week.jpg",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1000
+      "url": "https://app.powerbi.com/groups/e1755c84-42ce-4f2f-aa27-f4fa2ea52bff/reports/9c0da11a-8760-4965-8da5-68cb885e6b79/ReportSection4470c7642de1a4f7d174?chromeless=1",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 600
     }
   ]
 }
-
 
